@@ -1,0 +1,7 @@
+Compiled by May.
+
+Algorithm       Hash                                                                   
+---------       ----
+MD5             BA742B363F31A9917DC64A45BBE88F73
+SHA1            1B541AC731A9ED3BA0E6DC2345083C89B9F732E1
+SHA256          5F568F7597907DC96BE810CD898907EB7977DD54804E420476A749BC49DCF86D
